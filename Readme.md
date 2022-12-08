@@ -55,7 +55,7 @@ La aplicación cuenta con los siguientes módulos:
         *   Contamos con una gráfica interactiva, implementada en R, que muestra los sobrevivientes del titanic de acuerdo actualizar
             la opción elegida en un combo box (opciones: sexo, clase y edad de los pasajeros)
 
-# 2. COmponentes
+# 2. Componentes
 
     a.  Base de datos
 
